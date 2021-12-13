@@ -1,8 +1,5 @@
 body{
-    background-image: url(./orange.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-color: coral;
     
 }
 .navbar-brand{

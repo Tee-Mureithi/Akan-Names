@@ -10,11 +10,11 @@
 body {
     font-family: 'Anaheim';
     font-size: 1.2em;
-    background-color: blueviolet;
+    background-color:coral;
   }
   
   #outside {
-    background-color: blueviolet;
+    background-color:coral;
     padding-top: 25px;
     padding-bottom: 25px;
   }
