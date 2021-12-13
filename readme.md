@@ -7,7 +7,7 @@ This is a program that allows the people of Ghana to know their Akan names by en
 # Technologies used
 (1.)HTML<br>
 (2.)CSS<br>
-(3.)BOotstrap <br>
+(3.)Bootstrap <br>
 (4.)Javascript <br>
 
 # Program set-up instructions
