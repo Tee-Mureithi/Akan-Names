@@ -3,11 +3,13 @@ Esther Wangari Mureithi<br>
 # Program name
 Akan-Names<br>
 # Description of program
-This is a program that allows the people of Ghana to know their Akan names by entering their birthday details hence the website will process and display the akan name
-<br>
+This is a program that allows the people of Ghana to know their Akan names by entering their birthday details hence the website will process and display the Akan name
 # Technologies used
 (1.)HTML<br>
 (2.)CSS<br>
+(3.)BOotstrap <br>
+(4.)Javascript <br>
+
 # Program set-up instructions
 The users will need to install google chrome so as to view the program
 There are no other dependancies needed to run this code<br>
