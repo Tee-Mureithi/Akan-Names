@@ -3,7 +3,8 @@ Esther Wangari Mureithi<br>
 # Program name
 Akan-Names<br>
 # Description of program
-This is a program that allows the customers of Moringa restaurant to see the menu of the restaurant and orfer meals.The program also displays the services offered by the restaurant and the prices of their different meals.By use of the program,one can also book a table<br>
+This is a program that allows the people of Ghana to know their Akan names by entering their birthday details hence the website will process and display the akan name
+<br>
 # Technologies used
 (1.)HTML<br>
 (2.)CSS<br>
