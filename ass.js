@@ -10,10 +10,11 @@ function validate () {
 
 
 if(
-    document.myForm.year.value == '' ||
-    document.myForm.year.value.length > 4 ||
+    
+   
     document.myForm.year.value > 2021 ||
-    document.myForm.year.value <=1900
+    document.myForm.year.value <=1900 ||
+    document.myForm.year.value.length > 4 
 ) {
     alert("Please provide a valid year")
     document.myForm.year.focus();
